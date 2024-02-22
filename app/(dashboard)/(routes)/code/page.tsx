@@ -98,8 +98,6 @@ router.refresh();
                                         </FormControl>
                                     </FormItem>
 
-
-
                                 )}/>
                                 <Button className="col-span-12 lg:col-span-2 w-full" disabled={isLoading}>
                                 Generate
